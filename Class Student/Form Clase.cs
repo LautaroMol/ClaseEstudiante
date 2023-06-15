@@ -58,7 +58,7 @@ namespace Class_Student
                     {
                         Estudiante estudiante = new Estudiante(txtdni.Text.ToString(), txtnom.Text.ToString(), txtap.Text.ToString(), dateTimePicker1.Value, checkBox1.Checked);
                         listaest.Add(estudiante);
-                        dataGridView1.Rows.Add(txtdni.Text,txtnom.Text,txtap.Text,checkBox1.Checked,estudiante.getEdad());
+                        dataGridView1.Rows.Add(txtdni.Text,txtnom.Text,txtap.Text,checkBox1.Checked,estudiante.getEd());
                         MessageBox.Show("estudiante guardado");
                     }
                     
