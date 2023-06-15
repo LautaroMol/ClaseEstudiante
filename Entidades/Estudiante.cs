@@ -44,7 +44,14 @@ namespace Entidades
         {
             return this.dni;
         }
-        public int getEdad() { return this.edad; }
+
+		public string getNombre()
+		{
+			return this.nombre;
+		}
+        public string getAp() { return this.apellido; }
+        public int getEd() { return this.edad; }
+        public bool getAsist() { return this.asist; }
         public string DarDatos() {
             string datos = $"DNI: {dni}\n";
             datos += $"\n Nombre: {nombre}";

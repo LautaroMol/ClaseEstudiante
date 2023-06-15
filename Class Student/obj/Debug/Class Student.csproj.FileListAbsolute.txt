@@ -1,0 +1,14 @@
+D:\repos visual studio 2022\Class Student\Class Student\bin\Debug\Class Student.exe.config
+D:\repos visual studio 2022\Class Student\Class Student\bin\Debug\Class Student.exe
+D:\repos visual studio 2022\Class Student\Class Student\bin\Debug\Class Student.pdb
+D:\repos visual studio 2022\Class Student\Class Student\obj\Debug\Class Student.csproj.AssemblyReference.cache
+D:\repos visual studio 2022\Class Student\Class Student\obj\Debug\Class Student.csproj.SuggestedBindingRedirects.cache
+D:\repos visual studio 2022\Class Student\Class Student\obj\Debug\Class_Student.Properties.Resources.resources
+D:\repos visual studio 2022\Class Student\Class Student\obj\Debug\Class Student.csproj.GenerateResource.cache
+D:\repos visual studio 2022\Class Student\Class Student\obj\Debug\Class Student.csproj.CoreCompileInputs.cache
+D:\repos visual studio 2022\Class Student\Class Student\obj\Debug\Class Student.exe
+D:\repos visual studio 2022\Class Student\Class Student\obj\Debug\Class Student.pdb
+D:\repos visual studio 2022\Class Student\Class Student\bin\Debug\Entidades.dll
+D:\repos visual studio 2022\Class Student\Class Student\bin\Debug\Entidades.pdb
+D:\repos visual studio 2022\Class Student\Class Student\obj\Debug\Class_Student.Form_Clase.resources
+D:\repos visual studio 2022\Class Student\Class Student\obj\Debug\Class Student.csproj.CopyComplete
