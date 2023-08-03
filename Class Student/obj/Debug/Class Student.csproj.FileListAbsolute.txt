@@ -12,3 +12,8 @@ D:\repos visual studio 2022\Class Student\Class Student\bin\Debug\Entidades.dll
 D:\repos visual studio 2022\Class Student\Class Student\bin\Debug\Entidades.pdb
 D:\repos visual studio 2022\Class Student\Class Student\obj\Debug\Class_Student.Form_Clase.resources
 D:\repos visual studio 2022\Class Student\Class Student\obj\Debug\Class Student.csproj.CopyComplete
+D:\repos visual studio 2022\Class Student\Class Student\bin\Debug\CapaNegocios.dll
+D:\repos visual studio 2022\Class Student\Class Student\bin\Debug\CapaDatos.dll
+D:\repos visual studio 2022\Class Student\Class Student\bin\Debug\CapaNegocios.pdb
+D:\repos visual studio 2022\Class Student\Class Student\bin\Debug\CapaDatos.pdb
+D:\repos visual studio 2022\Class Student\Class Student\bin\Debug\CapaDatos.dll.config

@@ -27,8 +27,17 @@ namespace Entidades
             if (fecnac.Month > Fecha.Month)
             { --edad; }
         }
+		public Estudiante(string dni, string nombre, string apellido, int eda, bool asist)
+		{
+			this.dni = dni;
+			this.nombre = nombre;
+			this.apellido = apellido;
+			this.asist = asist;
+			DateTime Fecha = DateTime.Now;
+            int edad = eda;
+		}
 
-        public void agregar(string Dni, string Nombre, string Apellido, DateTime fecnac, bool Asist) 
+		public void agregar(string Dni, string Nombre, string Apellido, DateTime fecnac, bool Asist) 
         {
             dni = Dni;
             nombre = Nombre;

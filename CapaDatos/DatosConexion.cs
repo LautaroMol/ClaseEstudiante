@@ -5,13 +5,14 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Data.OleDb;
 using System.Data;
+using System.Data.SqlClient;
 
 namespace CapaDatos
 {
 	public class DatosConexion
 	{
 		protected OleDbConnection conexion;
-		protected string cadenaConexion =  @"Provider=Microsoft.ACE.OLEDB.12.0; Data Source = D:\Documentos\facultad\programacion 2\BasededatosAlumno.accdb";
+		protected string cadenaConexion = @"Provider=Microsoft.ACE.OLEDB.12.0;Data Source=""D:\Documentos\facultad\programacion 2\BasededatosAlumno.accdb""";
 		public DatosConexion() 
 		{
 			conexion = new OleDbConnection(cadenaConexion);

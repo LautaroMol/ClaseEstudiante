@@ -1,0 +1,10 @@
+D:\repos visual studio 2022\Class Student\CapaDatos\bin\Debug\CapaDatos.dll
+D:\repos visual studio 2022\Class Student\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\repos visual studio 2022\Class Student\CapaDatos\bin\Debug\Entidades.dll
+D:\repos visual studio 2022\Class Student\CapaDatos\bin\Debug\Entidades.pdb
+D:\repos visual studio 2022\Class Student\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+D:\repos visual studio 2022\Class Student\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+D:\repos visual studio 2022\Class Student\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+D:\repos visual studio 2022\Class Student\CapaDatos\obj\Debug\CapaDatos.dll
+D:\repos visual studio 2022\Class Student\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\repos visual studio 2022\Class Student\CapaDatos\bin\Debug\CapaDatos.dll.config

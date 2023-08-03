@@ -1,0 +1,12 @@
+D:\repos visual studio 2022\Class Student\CapaNegocios\bin\Debug\CapaNegocios.dll
+D:\repos visual studio 2022\Class Student\CapaNegocios\bin\Debug\CapaNegocios.pdb
+D:\repos visual studio 2022\Class Student\CapaNegocios\bin\Debug\CapaDatos.dll
+D:\repos visual studio 2022\Class Student\CapaNegocios\bin\Debug\Entidades.dll
+D:\repos visual studio 2022\Class Student\CapaNegocios\bin\Debug\CapaDatos.pdb
+D:\repos visual studio 2022\Class Student\CapaNegocios\bin\Debug\Entidades.pdb
+D:\repos visual studio 2022\Class Student\CapaNegocios\obj\Debug\CapaNegocios.csproj.AssemblyReference.cache
+D:\repos visual studio 2022\Class Student\CapaNegocios\obj\Debug\CapaNegocios.csproj.CoreCompileInputs.cache
+D:\repos visual studio 2022\Class Student\CapaNegocios\obj\Debug\CapaNegocios.csproj.CopyComplete
+D:\repos visual studio 2022\Class Student\CapaNegocios\obj\Debug\CapaNegocios.dll
+D:\repos visual studio 2022\Class Student\CapaNegocios\obj\Debug\CapaNegocios.pdb
+D:\repos visual studio 2022\Class Student\CapaNegocios\bin\Debug\CapaDatos.dll.config
